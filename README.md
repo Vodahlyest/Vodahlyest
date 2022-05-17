@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Vodahlyest
-- 👀 I realy love python programming language, and i've been learning it for around 2 years=
+- 
+- 👀 I realy love python programming language, and i've been learning it for around 2 years
+- 
 - 📫 pdd220206@gmail.com - my mail,  vodahlyest - instagram ( soooo original, i know :) )
 
 <!---
